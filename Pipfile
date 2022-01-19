@@ -7,6 +7,12 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+scipy = "*"
+ipython = "*"
+sympy = "*"
+nose = "*"
 
 [dev-packages]
 
