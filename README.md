@@ -1,5 +1,18 @@
 # dsp-learn
 
+## how to install
+
+1) clone the project
+2) install pipenv (`pip install pipenv`) 
+3) `cd` to the dir
+4) run `pipenv sync --dev`
+
+## how to start
+
+```bash
+$ pipenv run start
+```
+
 ## Good links for learning Digital Signal Processing
 
 - [Learning DSP Course (RUS)](https://habr.com/ru/post/460445/)
